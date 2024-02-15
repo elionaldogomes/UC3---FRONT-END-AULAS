@@ -1,1 +1,1 @@
-# materialque será desenvolvidos nas aulas da UC3
+# material que será desenvolvidos nas aulas da UC3
