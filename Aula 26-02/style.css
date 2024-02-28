@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+header{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgb(198, 148, 87);
+    padding: 1rem;
+    color: white;
+}
+
+nav ul li{
+    display: inline;
+  
+
+}
+li a{
+    text-decoration: none;
+    color: white;
+
+}
+
+main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: aqua;
+    padding: 1rem;
+    color: rgb(22, 72, 55);
+}
